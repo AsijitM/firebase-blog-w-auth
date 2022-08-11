@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebase-blog-w-auth/static/css/main.a4fd6c88.css",
+    "main.js": "/firebase-blog-w-auth/static/js/main.64559328.js",
+    "static/js/787.37d2db2c.chunk.js": "/firebase-blog-w-auth/static/js/787.37d2db2c.chunk.js",
+    "index.html": "/firebase-blog-w-auth/index.html",
+    "main.a4fd6c88.css.map": "/firebase-blog-w-auth/static/css/main.a4fd6c88.css.map",
+    "main.64559328.js.map": "/firebase-blog-w-auth/static/js/main.64559328.js.map",
+    "787.37d2db2c.chunk.js.map": "/firebase-blog-w-auth/static/js/787.37d2db2c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4fd6c88.css",
+    "static/js/main.64559328.js"
+  ]
+}
